@@ -5,7 +5,9 @@
 
 int main()
 {
-    std::cout << "Hello World tuboki!\n";
+    std::cout << "Hello tuboki!\n";
+
+    std::cout << "LC1C_21_ツボキ_ハヤト\n";
 
 }
 
