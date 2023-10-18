@@ -11,7 +11,10 @@ int main()
 
     std::cout << "2023/10/11";
 
-    std::cout <<"player"
+    std::cout << "player";
+    std::cout << "マージして";
+
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
