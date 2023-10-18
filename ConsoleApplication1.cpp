@@ -13,7 +13,10 @@ int main()
 
     std::cout << "player";
 
+    
+
     std::cout << "マージしてください";
+
 
 
 }
