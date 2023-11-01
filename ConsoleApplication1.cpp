@@ -14,6 +14,9 @@ int main()
     std::cout << "player";
 
     std::cout << "マージしてください";
+    std::cout << "マージしてください";
+
+    std::cout << "プルリクエスト";
 
 
 }
