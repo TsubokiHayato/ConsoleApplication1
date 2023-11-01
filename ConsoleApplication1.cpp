@@ -18,6 +18,8 @@ int main()
 
     std::cout << "プルリクエスト";
 
+    std::cout << "プルリクエスト";
+
 
 }
 
