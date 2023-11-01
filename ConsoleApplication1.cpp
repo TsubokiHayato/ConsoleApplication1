@@ -20,6 +20,7 @@ int main()
     std::cout << "プルリクエスト";
 
     std::cout << "プルせずに作業した";
+    std::cout << "プルせずに作業した";
 
 }
 
